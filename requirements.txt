@@ -1,0 +1,5 @@
+confluent-kafka
+clickhouse-driver
+python-dotenv
+cassandra-driver
+
