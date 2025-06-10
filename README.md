@@ -5,6 +5,7 @@ This project implements a Kafka-based real-time pipeline to consume messages and
 ## 🛠 Stack
 - Kafka
 - ClickHouse
+- Cassandra
 - Python
 - asyncio
 
