@@ -1,6 +1,6 @@
 # Kafka Realtime Streaming Pipeline
 
-This project implements a Kafka-based real-time pipeline to consume messages and push them to ClickHouse, with modular consumer/producer code 
+This project implements a Kafka-based real-time pipeline to consume messages and push them to ClickHouse/Cassandra , with modular consumer/producer code 
 
 ## 🛠 Stack
 - Kafka
